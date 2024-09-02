@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\data\\migrations\\20240830155627_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:data\\migrations\\20240830155627_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|c:\\users\\pvera\\documents\\eduvos\\- it eha3-b33 - enterprise programming in c#\\vs\\eha-assignment_saonlinemart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76EEDEF6-8793-4A76-B8AA-BCA3D639DF2D}|EHA-Assignment_SAOnlineMart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -48,59 +40,33 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-01T17:40:52.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240830155627_initialSetup.cs",
-              "DocumentMoniker": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Data\\Migrations\\20240830155627_initialSetup.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20240830155627_initialSetup.cs",
-              "ToolTip": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Data\\Migrations\\20240830155627_initialSetup.cs",
-              "RelativeToolTip": "Data\\Migrations\\20240830155627_initialSetup.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:56:27.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T15:44:24.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:40:57.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T15:38:03.776Z",
               "EditorCaption": ""
@@ -113,14 +79,14 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-30T15:29:21.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pvera\\Documents\\Eduvos\\- IT EHA3-B33 - Enterprise Programming in C#\\VS\\EHA-Assignment_SAOnlineMart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -128,8 +94,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T15:24:44.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T15:24:44.514Z"
             }
           ]
         }
