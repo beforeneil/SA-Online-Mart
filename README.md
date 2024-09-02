@@ -1,6 +1,6 @@
 # SA-Online-Mart
  
- ** This project is a prototype for the SA Online Mart web platform, making use of ASP.NET and using Entity Framework for database interaction.**
+**This project is a prototype for the SA Online Mart web platform, making use of ASP.NET and using Entity Framework for database interaction.** 
  
  Users of the site can browse a list of items for sale, view product details, and add products to a shopping cart.
 
