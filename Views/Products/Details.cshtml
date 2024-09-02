@@ -4,7 +4,7 @@
     ViewData["Title"] = "Details";
 }
 
-<h1>Details</h1>
+<h2>Details</h2>
 
 <div>
     <h4>Product</h4>
@@ -23,7 +23,7 @@
             @Html.DisplayFor(model => model.Description)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Price)
+            Price (ZAR)
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Price)
@@ -31,6 +31,12 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    @using (Html.BeginForm("AddToCart", "Product", new { id = Model.Id }, FormMethod.Post))
+    {
+    <input type="submit" value="Add to Cart" class="btn btn-primary" />
+    }
+</div>
+<br>
+<div>
     <a asp-action="Index">Back to List</a>
 </div>
